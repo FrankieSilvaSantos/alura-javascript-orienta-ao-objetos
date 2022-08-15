@@ -1,0 +1,2 @@
+static = atributo da classe como 1 todo e nao individualmente
+alterou em algum lugar td se altera

@@ -1,0 +1,9 @@
+ depositar(valor) {
+        if(valor <= 0 ) {
+            return;
+        }
+        this._saldo += valor;
+    }
+
+
+basicamente se o valor for menor ou igual a 0 ele vai retornar nada (early return)

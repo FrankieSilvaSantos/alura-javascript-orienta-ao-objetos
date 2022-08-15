@@ -1,0 +1,22 @@
+no terminal vs code 
+
+npm init
+
+nome do projeto 
+ enter 
+descriçao escreve qualquer coisa
+enter
+enter
+
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "banco do bytebank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "frankie",
+  "license": "ISC",
+  "type": "module"
+}

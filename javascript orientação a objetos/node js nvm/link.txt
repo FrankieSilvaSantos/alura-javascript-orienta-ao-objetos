@@ -1,0 +1,3 @@
+https://github.com/nvm-sh/nvm
+
+caso seja a versao inferior a 13.5

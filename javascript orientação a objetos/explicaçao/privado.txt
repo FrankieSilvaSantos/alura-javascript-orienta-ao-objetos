@@ -1,0 +1,3 @@
+#
+
+ou iniciar com _   exemplo: _saldo  mostrando assim que é privado
